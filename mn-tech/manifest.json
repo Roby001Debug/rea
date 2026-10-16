@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "skill_name": "reverse-engineer-anything",
+  "adaptation": "MN-Tech engineering R02 portable",
+  "runtime_baseline": "rea-agents 6.3.0",
+  "files": [
+    {
+      "path": "agents/openai.yaml",
+      "sha256": "b011db08383559d80e0804888a7ca50478f7dee18b3a5629eabcb1444d0280d9"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "798f9e4d18e49b30bf2f12696c8ced73dc4e1413da375a333d01281543a1ea8b"
+    },
+    {
+      "path": "NOTICE.md",
+      "sha256": "6f64dbc47326506fb52d41cb4e8fde2769f698d342251dcbccc7df32e7e4a188"
+    },
+    {
+      "path": "references/android-applications.md",
+      "sha256": "412d9cb462d85b07f6fdbc2453dd741ca3da2c0dbba627867d5624df94afa74c"
+    },
+    {
+      "path": "references/evidence-workflows.md",
+      "sha256": "c8ce2f38c9ea22934686692b325196fe48a92c7e406ce1ddac278e652b40cac7"
+    },
+    {
+      "path": "references/javascript-applications.md",
+      "sha256": "cee36b5129e1c57543d43879542f6795799b4099d21708037257e7d76de22b66"
+    },
+    {
+      "path": "references/local-engineering-rules.md",
+      "sha256": "86fe06dd2504aea0e4944afa488c1f6d3e1e3b38a48f71dd6e0c922795e4d923"
+    },
+    {
+      "path": "references/native-and-artifacts.md",
+      "sha256": "2e1e30f4fdfe2b49fdaab2c1c36a70061902b75c89202d9c2e58e7a7701d039b"
+    },
+    {
+      "path": "references/runtime-observation.md",
+      "sha256": "b3eea94dd7d0c6474634de22ac3ccae317f42ba1ba2389d93535ee8dae7d94e1"
+    },
+    {
+      "path": "SKILL.md",
+      "sha256": "305fc5fa15982fd20e29de71c9d3396a2d5456289a4968dd257db33e448d1573"
+    }
+  ]
+}

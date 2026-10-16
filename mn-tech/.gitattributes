@@ -1,0 +1,2 @@
+# Preserve byte-exact UTF-8 payloads and SHA-256 values on Windows checkouts.
+* -text
